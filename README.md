@@ -1,6 +1,6 @@
 # flutter_weatherapp
 
-A simple weather app im Flutter.
+A simple weather app in Flutter.
 
 ## Getting Started
 
